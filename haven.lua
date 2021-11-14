@@ -1,4 +1,4 @@
--- USE THIS IN THE ROBLOX GAME HAVEN HOLIDAYS :: https://www.roblox.com/games/7104645174/RP-Blue-Dolphin :: Group: https://www.roblox.com/groups/5321880/Haven-Holidays-Roblox#!/about
+-- USE THIS IN THE ROBLOX GAME HAVEN HOLIDAYS :: https://www.roblox.com/games/7104645174/RP-Blue-Dolphin :: https://www.roblox.com/games/7525669480/Haven-Holidays-Roblox-Crai-g-Tara :: Group: https://www.roblox.com/groups/5321880/Haven-Holidays-Roblox#!/about
 
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/vozoid/scripts/master/uilibrary.lua"))()
 local window = library:window("Window")
